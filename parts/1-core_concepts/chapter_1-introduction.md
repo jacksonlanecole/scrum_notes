@@ -1,4 +1,4 @@
-# Chapter 1: Introduction
+## Chapter 1: Introduction
 
 - Scrum is an agile approach for developing innovating producs and services.
 - You begin by creating a **PRODUCT BACKLOG**

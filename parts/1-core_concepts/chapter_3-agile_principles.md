@@ -1,5 +1,5 @@
-# Chapter 3: Agile Principles
-## Traditional, plan driven development (**NOT SCRUM**)
+## Chapter 3: Agile Principles
+### Traditional, plan driven development (**NOT SCRUM**)
 - Typically goes by the term waterfall
 - Attempts to plan for and anticipate all features up front and how to best
   build those features
@@ -8,9 +8,9 @@
 - Works when problems are well defined and predictable
 - There is typically a belief that it "should" work
 
-## SCRUM
+### SCRUM
 - Leverages the variability and uncertainty in product development
-### 4 Principles
+#### 4 Principles
 1. Embrace helpful variability
 2. Employ iterative and incremental development
 3. Leverage variability through inspection, adaptation, and transparency
